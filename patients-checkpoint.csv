@@ -1,0 +1,11 @@
+patient_id,name,age,gender,diagnosis,admission_date,discharge_date,cost
+1,Alice Martin,34,F,Diabetes,2024-01-05,2024-01-10,3500
+2,Bob Smith,52,M,Hypertension,2024-01-07,2024-01-12,4200
+3,Clara Jones,28,F,Asthma,2024-01-10,2024-01-13,2800
+4,David Brown,61,M,Diabetes,2024-01-11,2024-01-18,5100
+5,Eva White,45,F,Heart Disease,2024-01-15,2024-01-25,8700
+6,Frank Black,39,M,Asthma,2024-01-16,2024-01-19,2600
+7,Grace Lee,57,F,Hypertension,2024-01-20,2024-01-24,3900
+8,Henry Wilson,70,M,Heart Disease,2024-01-22,2024-02-01,9500
+9,Iris Taylor,33,F,Diabetes,2024-01-25,2024-01-30,3300
+10,Jack Moore,48,M,Hypertension,2024-01-28,2024-02-03,4100
